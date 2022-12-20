@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u'ReStructuredText Tutorial'
-copyright = u'2019, 王竹兴'
-author = u'王竹兴'
+copyright = u'2019, Elinpf'
+author = u'Elinpf'
 
 # The short X.Y version
 version = u''
