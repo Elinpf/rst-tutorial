@@ -1,13 +1,13 @@
 .. _topics-05_use_display_code_mark:
 
-====
+========
 显示代码
-====
+========
 
 .. note:: 我们可以在配置文件指定highlight_langeuage="c,python"
 
 使用codeblock
-====
+=============
 
 .. code-block:: c
 
@@ -19,7 +19,7 @@
     }
 
 显示行号
-====
+========
 
 .. code-block:: c
     :linenos:
@@ -32,7 +32,7 @@
     }
 
 突出特定行
-====
+==========
 
 .. code-block:: python
    :emphasize-lines: 3,5
@@ -44,7 +44,7 @@
        print '...but this one is.'
 
 引用一个文件
-====
+============
 
 .. literalinclude:: test.py
    :encoding: utf-8
@@ -54,7 +54,7 @@
    :lines: 1-5,9-
 
 diff2个文件
-====
+===========
 
 .. literalinclude:: test.py
    :diff: test2.py
