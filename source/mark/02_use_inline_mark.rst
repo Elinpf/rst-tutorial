@@ -32,7 +32,7 @@ doc
 :doc:`/base/03_use_list` 
 
 download
-====
+=========
 
 :download:`/images/panda.jpg` 
 

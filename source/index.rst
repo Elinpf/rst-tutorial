@@ -5,9 +5,9 @@
 
 .. _topics-index:
 
-====
+==========================
 ReStructuredText 快速教程
-====
+==========================
 
 前言
 ----
@@ -24,7 +24,7 @@ ReStructuredText 快速教程
 同时，这个教程也可当作 **rst** 文本的语法手册查询，使用左边栏的目录和搜索栏可以很方便的查阅。
 
 写作工具
-----
+--------
 本书使用的reStructuredText标记语言，相对Markdown来说，在写书方面更有优势:
 
 - 使用sphnix能够自动生成目录和索引文件，方便查询和检索；
@@ -34,7 +34,7 @@ ReStructuredText 快速教程
 ----
 
 文献参考
-----
+--------
 
 - `My_Study_ReStructuredText <https://my-study-restructuredtext.readthedocs.io/en/latest/>`_ 
 - `Sphinx 使用手册 <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`_ 

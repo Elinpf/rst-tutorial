@@ -5,7 +5,7 @@
 ======
 
 c++代码样例
-====
+===========
 
 .. code-block:: c++
 
@@ -17,7 +17,7 @@ c++代码样例
     }
 
 bash代码样例
-====
+=============
 
 .. code-block:: bash
 
@@ -51,7 +51,7 @@ bash代码样例
     done
 
 python代码样例
-====
+==============
 
 .. code-block:: python
 
@@ -68,7 +68,7 @@ python代码样例
     f = open('/Users/michael/gbk.txt', 'r', encoding='gbk', errors='ignore')
 
 json对象样例展示
-====
+================
 
 .. code-block:: json
 
