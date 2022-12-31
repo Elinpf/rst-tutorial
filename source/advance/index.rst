@@ -19,4 +19,5 @@
     07_use_reference_by_replace
     08_use_comment
     09_use_code_block
+    10_use_autodoc
     
