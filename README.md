@@ -1,3 +1,7 @@
+[![Documentation Status](https://readthedocs.org/projects/rst-tutorial-elinpf/badge/?version=latest)](https://rst-tutorial-elinpf.readthedocs.io/en/latest/?badge=latest)
+
+[文档链接](https://rst-tutorial-elinpf.readthedocs.io/en/latest/)
+
 # rst-tutorial
 
 > ReStructuredText Tutorial. 
